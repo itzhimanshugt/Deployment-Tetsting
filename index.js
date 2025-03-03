@@ -8,7 +8,7 @@ const app = express();
 const port = process.env.PORT;
 
 app.get('/',(req,res)=>{
-    console.log(`hello there!`);
+    console.log(`Suchabitchassup!`);
 });
 
 app.listen(port,() => {
